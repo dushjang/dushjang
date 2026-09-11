@@ -5,6 +5,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/dushyant-jangra-065b44337/)
 -->
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
-![Githum_Snake](https://github.com/dushjang/Dushyant/edit/main/snake.yaml)
 
 
